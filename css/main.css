@@ -190,9 +190,9 @@ button:focus {
 }
 
 .hero > div {
-	background: #212121 url(../img/bg.jpg) no-repeat 50% 0;
+	background: #212121 url(../img/bg.jpg) no-repeat 50%; scale
 	-webkit-backface-visibility: hidden;
-	backface-visibility: hidden;
+	backface-visibility:hidden;
 }
 
 .hero__back--static,
